@@ -23,7 +23,7 @@ const Product = ({ title, description, images, price }: Props) => {
       <div className="col-span-2">
         <h1 className="text-4xl font-bold border-b p-6">{title}</h1>
         <p className="text-gray-900 p-6">{description}</p>
-        {/* <p>{price}</p> */}
+        <p>{price}</p>
       </div>
       <div className="border-l p-6 flex flex-col">
         <button
