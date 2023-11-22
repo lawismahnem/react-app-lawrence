@@ -4,7 +4,7 @@
 import Header from "./components/Header";
 import Product from "./pages/Product";
 import thumbnailImg from "./assets/thumbnail.png";
-import { Routes, Route, Outlet, Link } from "react-router-dom";
+import { Routes, Route, Outlet } from "react-router-dom";
 import Checkout from "./pages/Checkout";
 
 function Layout() {
