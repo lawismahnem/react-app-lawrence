@@ -10,8 +10,8 @@ function App() {
     <>
       <Header title="WEBROAD"></Header>
       <Product
-        title="Complete"
-        description="lorem empsum"
+        title="Complete Web Bundle"
+        description="lorem empsum lorem empsum lorem empsum lorem empsum"
         images={[{ src: thumbnailImg, alt: "Thumbnail Image" }]}
         price={199.99}
       ></Product>
